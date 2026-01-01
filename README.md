@@ -1,6 +1,6 @@
 This repository highlights my gameplay programming work utilizing Unreal Engine 5 and the gameplay ability system (GAS). It currently focuses on implemeting abilities, AI behavior, and character modeling in Blender.
 
-* Featured Project - Unreal GAS Gameplay Prototype *
+* Featured Project - Unreal GAS Gameplay Prototype 
 
 * Engine - Unreal Engine 5
 * Focus - Combat and abilities, this project is a duel between an ai controlled model
